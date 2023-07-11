@@ -21,7 +21,7 @@ Provides some more functionallity during games:
 
 - Latest autoIT version https://www.autoitscript.com/site/autoit/downloads/
 - nodeJS https://nodejs.org/en
-- Port 13300 and 8000 opened on your machine to be accesible within your local network!
+- Port 8000 opened on your machine to be accesible within your local network!
 
 ## Setup
 
