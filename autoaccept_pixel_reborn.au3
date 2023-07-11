@@ -86,12 +86,12 @@ While 1
 	_acceptReadyCheck()
 	_acceptInvite()
 	_checkDraft()
-	;_pauseTime()
-	;_startGameTime()
-	;_runes()
-	;_dayAndNight()
-	;_neutralItems()
-	;_roshan()
+	_pauseTime()
+	_startGameTime()
+	_runes()
+	_dayAndNight()
+	_neutralItems()
+	_roshan()
 WEnd
 
 ; #FUNCTION# ===================================================================
