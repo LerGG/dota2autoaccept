@@ -30,7 +30,7 @@ Provides some more functionallity during games:
 - run ipconfig and get your machines IPv4 adress and add it to server.js host
 - run the server "node server.js"
 - run auto_accept_pixel_reborn.au3
-- You can now reach the server via http at http://<yourIPv4Adress>:8000/
+- You can now reach the server via http at http://yourIPv4Adress:8000/
 
 # Notes
 
